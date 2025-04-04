@@ -17,7 +17,7 @@ An advanced LSTM-based stock price prediction system with real-time dashboard po
 ## 🚀 Live Demo
 
 Access the live prediction dashboard directly:
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yourusername-streamlit-app.streamlit.app/)
+(https://real-time-stock-price-predictor-trox.streamlit.app/)
 
 ## 📊 How to Use
  
